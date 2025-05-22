@@ -1,2 +1,8 @@
 # Rail_Network_Operations
-Project on creating rail operation reports using fictional rail data, showcasing the data analysis process from data cleansing, to data connection into Power BI, to query and metric building with Python and Power Query
+
+## Project Overview
+This project focuses on extracting, transforming, and cleaning rail transportation network data using Python. It integrates Power BI dashboards with active data connections, providing insightful and compelling visualizations for business decision making. Additionally, mockups and wireframes guide the user experience design.
+
+## Tools Used
+
+## Reports & Metrics
